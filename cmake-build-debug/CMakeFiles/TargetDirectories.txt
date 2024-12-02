@@ -1,0 +1,3 @@
+D:/Muerte/cmake-build-debug/CMakeFiles/Muerte.dir
+D:/Muerte/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Muerte/cmake-build-debug/CMakeFiles/rebuild_cache.dir
